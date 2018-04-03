@@ -1,0 +1,11 @@
+.idea/
+node_modules/
+dist/
+npm-debug.log
+.cache
+.eslintcache
+package-lock.json
+.eslintrc
+coverage
+.DS_Store
+.vscode
